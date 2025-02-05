@@ -14,6 +14,8 @@ From Kampala, Uganda, curious about how websites are designed and passionate abo
 [LinkedIn](https://www.linkedin.com/in/bisaso-andrew-800392217)
 [Email](bandrew235@gmail.com)
 
+[Sample_Resume](/my_resume/README.md)
+
 ⚡ Fun fact: I am a quick learner who never forgets that easily when given enough time.
 
 <!--
